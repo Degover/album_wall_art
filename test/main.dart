@@ -1,4 +1,4 @@
-import 'package:album_wall_art/album_wall_art.dart';
+import 'package:album_wall_art/main.dart';
 import 'package:test/test.dart';
 
 void main() {
