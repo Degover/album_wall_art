@@ -1,0 +1,3 @@
+class DateScope {
+  DateScope();
+}

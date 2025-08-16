@@ -8,6 +8,7 @@
             "name": "album_wall_art",
             "request": "launch",
             "type": "dart",
+            "program": "bin/album_wall_art.dart"
         }
     ]
 }
